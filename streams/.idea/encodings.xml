@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/collect/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/collect/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/collectmap/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/collectmap/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/concurrent_grouping/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/concurrent_grouping/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/intstream/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/intstream/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/lazyness/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/lazyness/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/paralle_reduce/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/paralle_reduce/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/parallel/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/parallel/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/parallel_synchronized/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/parallel_synchronized/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/reduction/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/reduction/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/streamreuse/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/streamreuse/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/takeWhileDropWhile/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/takeWhileDropWhile/src/main/resources" charset="UTF-8" />
+  </component>
+</project>
